@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @PlsGelpME
-- 👀 I’m interested in Competitive coding right now
-- 🌱 I’m currently working on learning ml
+- 👋 Hi, I’m Vishnu Kesav.
 
 <!---
 PlsGelpME/PlsGelpME is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
